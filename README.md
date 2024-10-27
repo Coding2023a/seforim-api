@@ -12,5 +12,5 @@ npm install -g json-server
 To start the JSON Server and serve a JSON file, use the following command:
 
 ```bash
-json-server --watch db.json
+json-server --watch seforim.json
 ```
